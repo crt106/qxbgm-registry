@@ -1,0 +1,45 @@
+{
+  "registry": "qxbgm-registry/v1",
+  "kind": "app-config",
+  "updated": "2026-10-20",
+  "minAppVersion": "1.0.0",
+  "encoder": {
+    "tool": "tools/ptadpcm_enc.py",
+    "sampleRate": 48000,
+    "channels": 2,
+    "beam": 64,
+    "note": "PTADPCM 48kHz 立体声，块对齐 72B，约 54KB/s"
+  },
+  "presets": [
+    {
+      "id": "normal",
+      "name": "普通音乐",
+      "description": "直接 beam64 编码，适合人声/器乐",
+      "lowpassHz": 0,
+      "loop": false
+    },
+    {
+      "id": "chiptune-6k",
+      "name": "8bit 风格",
+      "description": "先 6kHz 低通再编码，抑制方波沿量化噪声",
+      "lowpassHz": 6000,
+      "loop": false
+    }
+  ],
+  "bookmarks": [
+    { "title": "渊星助手·奇域数据", "url": "https://ugc.seadp.cn/query" },
+    { "title": "渊星助手·用户查询", "url": "https://ugc.seadp.cn/ugc-db" },
+    { "title": "官方指南", "url": "https://act.mihoyo.com/ys/ugc/tutorial" },
+    { "title": "米游社", "url": "https://www.miyoushe.com/ys/" },
+    { "title": "HoYoLAB", "url": "https://www.hoyolab.com/" }
+  ],
+  "knownGameRoots": [
+    "F:\\Program Files\\Genshin Impact\\Genshin Impact Game",
+    "F:\\Program Files\\Genshin Impact\\hk4e_bilibili"
+  ],
+  "audio": {
+    "libraryDir": "YuanShen_Data/StreamingAssets/AudioAssets/BeyondUGC",
+    "musicPckPattern": "BeydMusic*.pck",
+    "bytesPerSecond": 54000
+  }
+}
