@@ -10,7 +10,8 @@
   "updatedAt": "2026-10-20",
   "wonderland": { "id": "1073741828", "name": "科研存档" },
   "manifest": {
-    "url": "https://gitee.com/CHANGE-ME/qxbgm-schemes-touhou8bit/raw/main/schemes/youkai-komachi.qxbgm.json"
+    "url": "D:\\ProgramSource2\\qxbgm-schemes-touhou8bit\\schemes\\youkai-komachi.qxbgm.json",
+    "_comment": "P0 本地验证用绝对路径；上架 Gitee 后改为 raw URL: https://gitee.com/<user>/qxbgm-schemes-touhou8bit/raw/main/schemes/youkai-komachi.qxbgm.json"
   },
   "tracks": 1,
   "minAppVersion": "1.0.0"
