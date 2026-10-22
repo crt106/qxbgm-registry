@@ -19,7 +19,7 @@
   },
   "manifest": {
     "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-touhou/main/schemes/th01-original-full-v2.qxbgm.json",
-    "sha256": "bec6efbecdd7e9642509614fcb2aa3dcd1f6430bbac681cef31414690618dcd8"
+    "sha256": "367592a6fcb5bb87e7d5562bf8d8e99bb403f669b0fa0d37cbdc5767278be96b"
   },
   "package": {
     "url": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/th01-original-full-v2.qxbgmzip",
