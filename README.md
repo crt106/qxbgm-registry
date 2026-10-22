@@ -57,13 +57,15 @@ docs/             # 上架指南等
 | [東方妖怪小町 (8bit)](index/touhou-8bit-youkai-komachi.json) | crt106 | 1.0.0 | 1 | 科研存档 |
 | [竹取飛翔 ～ Lunatic Princess (8bit)](index/touhou-8bit-taketori-lunatic-princess.json) | crt106 | 1.0.0 | 1 | 科研存档 |
 
+| [TH01 灵异传·原版全曲替换（修复版）](index/th01-original-full-v2.json) | crt106 | 2.0.0 | 15 | TH01 灵异传 |
+
 ## 🧩 仓库生态
 
 | 仓库 | 作用 |
 |---|---|
 | [QxBgmManager](https://github.com/crt106/QxBgmManager) | App 源码（WPF 桌面应用） |
 | **qxbgm-registry**（本仓库） | 方案索引 + 共享配置 |
-| [qxbgm-schemes-touhou8bit](https://github.com/crt106/qxbgm-schemes-touhou8bit) | 发布者仓库示例 |
+| [qxbgm-schemes-touhou](https://github.com/crt106/qxbgm-schemes-touhou) | 发布者仓库示例 |
 
 ## ⚠️ 声明
 

@@ -1,0 +1,31 @@
+{
+  "registry": "qxbgm-registry/v1",
+  "id": "th01-original-full-v2",
+  "name": "TH01 灵异传·原版全曲替换（修复版）",
+  "author": "crt106",
+  "description": "15 首原作音源，已修正单声道配置。请先卸载旧版，再安装本方案；地图音乐选择“原神”。",
+  "tags": [
+    "东方",
+    "TH01",
+    "原曲",
+    "全替换"
+  ],
+  "category": "音乐包",
+  "version": "2.0.0",
+  "updatedAt": "2026-10-23",
+  "wonderland": {
+    "id": "1073741831",
+    "name": "TH01 灵异传"
+  },
+  "manifest": {
+    "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-touhou/main/schemes/th01-original-full-v2.qxbgm.json",
+    "sha256": "bec6efbecdd7e9642509614fcb2aa3dcd1f6430bbac681cef31414690618dcd8"
+  },
+  "package": {
+    "url": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th01-original-v2.0.0/th01-original-full-v2.qxbgmzip",
+    "sha256": "8de3b3285724d0cc7f709a976291168c06b0fbb39502688c962c7909f11fe8f1",
+    "size": 39257050
+  },
+  "tracks": 15,
+  "minAppVersion": "0.1.2"
+}
