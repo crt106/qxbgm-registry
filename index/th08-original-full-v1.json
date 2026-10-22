@@ -1,0 +1,31 @@
+{
+  "registry": "qxbgm-registry/v1",
+  "id": "th08-original-full-v1",
+  "name": "TH08 永夜抄·原曲全替换（一轮版）",
+  "author": "crt106",
+  "description": "18 首原曲覆盖 20 个音乐目标，保留原速立体声、前奏与一轮完整旋律。完整循环需配套地图时长设置；切换前请卸载 TH01 方案。",
+  "tags": [
+    "东方",
+    "TH08",
+    "原曲",
+    "全替换"
+  ],
+  "category": "音乐包",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-23",
+  "wonderland": {
+    "id": "1073741827",
+    "name": "TH08 永夜抄"
+  },
+  "manifest": {
+    "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-touhou/main/schemes/th08-original-full-v1.qxbgm.json",
+    "sha256": "916654528f0289c1ddc1d360d6367c6082bef41bd574f55495f98141654edd60"
+  },
+  "package": {
+    "url": "https://github.com/crt106/qxbgm-schemes-touhou/releases/download/th08-original-v1.0.0/th08-original-full-v1.qxbgmzip",
+    "sha256": "239ecbdf6cba21a6f8cb9a3d717bc707ca874bef491fd5dbec8fd949fd3764f9",
+    "size": 97081011
+  },
+  "tracks": 20,
+  "minAppVersion": "0.1.2"
+}

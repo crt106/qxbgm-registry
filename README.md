@@ -56,8 +56,8 @@ docs/             # 上架指南等
 |---|---|---|---|---|
 | [東方妖怪小町 (8bit)](index/touhou-8bit-youkai-komachi.json) | crt106 | 1.0.0 | 1 | 科研存档 |
 | [竹取飛翔 ～ Lunatic Princess (8bit)](index/touhou-8bit-taketori-lunatic-princess.json) | crt106 | 1.0.0 | 1 | 科研存档 |
-
 | [TH01 灵异传·原版全曲替换（修复版）](index/th01-original-full-v2.json) | crt106 | 2.0.0 | 15 | TH01 灵异传 |
+| [TH08 永夜抄·原曲全替换（一轮版）](index/th08-original-full-v1.json) | crt106 | 1.0.0 | 20 | TH08 永夜抄 |
 
 ## 🧩 仓库生态
 
