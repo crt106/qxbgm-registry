@@ -18,7 +18,7 @@
   },
   "manifest": {
     "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-wonderland/main/schemes/billiards-caromhall.qxbgm.json",
-    "sha256": "53b88a1ee06d07e376d29b2d47f22de76f5437690f2b9339c1c3776a485b8604"
+    "sha256": "18fbbf4e5ec11f5a55dc6a735c9a3331ef7df2f698ad5dee010ce7c023343588"
   },
   "tracks": 1,
   "minAppVersion": "1.0.0"

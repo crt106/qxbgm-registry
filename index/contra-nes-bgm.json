@@ -19,7 +19,7 @@
   },
   "manifest": {
     "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-wonderland/main/schemes/contra-nes-bgm.qxbgm.json",
-    "sha256": "5ea58d1197ecba51a55b128fbab5d72f55593da2333200b2a7bdf5b1c3621e55"
+    "sha256": "a0d669a095caf57733ec84d695a2c51c8570cda5f50a06a1d0907f744f85fc39"
   },
   "tracks": 3,
   "minAppVersion": "1.0.0"
