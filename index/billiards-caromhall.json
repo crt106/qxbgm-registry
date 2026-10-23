@@ -1,0 +1,25 @@
+{
+  "registry": "qxbgm-registry/v1",
+  "id": "billiards-caromhall",
+  "name": "模拟台球·caromhall 单曲包",
+  "author": "crt106",
+  "description": "模拟台球奇域厅内背景音乐（原曲「天使的馈赠」）替换为 caromhall，beam64 编码。",
+  "tags": [
+    "台球",
+    "caromhall",
+    "单曲"
+  ],
+  "category": "音乐包",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-24",
+  "wonderland": {
+    "id": "101719476929",
+    "name": "模拟台球"
+  },
+  "manifest": {
+    "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-wonderland/main/schemes/billiards-caromhall.qxbgm.json",
+    "sha256": "53b88a1ee06d07e376d29b2d47f22de76f5437690f2b9339c1c3776a485b8604"
+  },
+  "tracks": 1,
+  "minAppVersion": "1.0.0"
+}

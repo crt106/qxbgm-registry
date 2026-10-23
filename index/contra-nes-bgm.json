@@ -1,0 +1,26 @@
+{
+  "registry": "qxbgm-registry/v1",
+  "id": "contra-nes-bgm",
+  "name": "魂斗罗·重返郭往营地 BGM 包",
+  "author": "crt106",
+  "description": "美版 NES 魂斗罗原声，按地图关卡逻辑映射：野外关(1/3/5)→Jungle Hangar、基地关(2/4)→Bases I&II、终盘(6+)→Alien's Lair。chiptune-6k 预设，已按槽位容量裁剪。",
+  "tags": [
+    "魂斗罗",
+    "NES",
+    "复刻",
+    "8bit"
+  ],
+  "category": "音乐包",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-24",
+  "wonderland": {
+    "id": "32792444882",
+    "name": "魂斗罗·重返郭往营地"
+  },
+  "manifest": {
+    "url": "https://raw.githubusercontent.com/crt106/qxbgm-schemes-wonderland/main/schemes/contra-nes-bgm.qxbgm.json",
+    "sha256": "5ea58d1197ecba51a55b128fbab5d72f55593da2333200b2a7bdf5b1c3621e55"
+  },
+  "tracks": 3,
+  "minAppVersion": "1.0.0"
+}
